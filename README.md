@@ -161,7 +161,8 @@ Contributions are welcome! Feel free to:
 
 ---
 
-👨‍💻 Author
+##👨‍💻 Author
+
 Mohammed Mahmood
 
 GitHub: @[Mohammed-004del](https://github.com/Mohammed-004del/)
