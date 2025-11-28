@@ -158,23 +158,3 @@ Contributions are welcome! Feel free to:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 👨‍💻 Author
-
-**Mohammed Mahmood**
-
-- GitHub: [@Mohammed-004del]([https://github.com/yourusername](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/)](https://github.com/Mohammed-004del))
-- LinkedIn: [Mohammed Mahmood](https://linkedin.com/in/yourprofile)
-
----
-
-## 📧 Contact
-
-Have questions or suggestions? Feel free to reach out!
-
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
----
