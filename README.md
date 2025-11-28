@@ -161,18 +161,12 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
-**Your Name**
+**Mohammed Mahmood**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@Mohammed-004del]([https://github.com/yourusername](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/))
+- LinkedIn: [Mohammed Mahmood](https://linkedin.com/in/yourprofile)
 
 ---
 
