@@ -37,7 +37,7 @@ A powerful yet simple **web-based photo editor** that allows you to apply variou
 ## 📸 Screenshots
 
 ### Original Image
-![Original](screenshot_original.png)
+![Original](images/Photo_Editor_original.png)
 
 ### With Filters Applied
 ![Edited](images/Photo_Editor.png)
