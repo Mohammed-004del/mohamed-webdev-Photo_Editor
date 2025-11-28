@@ -165,7 +165,7 @@ Contributions are welcome! Feel free to:
 
 **Mohammed Mahmood**
 
-- GitHub: [@Mohammed-004del]([https://github.com/yourusername](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/))
+- GitHub: [@Mohammed-004del]([https://github.com/yourusername](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/)](https://github.com/Mohammed-004del))
 - LinkedIn: [Mohammed Mahmood](https://linkedin.com/in/yourprofile)
 
 ---
