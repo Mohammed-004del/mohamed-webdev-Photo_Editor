@@ -10,7 +10,7 @@ A powerful yet simple **web-based photo editor** that allows you to apply variou
 
 ## 🌐 Live Demo
 
-🔗 [View Demo](#) *(Add your GitHub Pages link here)*
+🔗 [View Demo](#) 
 
 ---
 
@@ -40,7 +40,7 @@ A powerful yet simple **web-based photo editor** that allows you to apply variou
 ![Original](screenshot_original.png)
 
 ### With Filters Applied
-![Edited](screenshot_edited.png)
+![Edited](images/Photo_Editor.png)
 
 ---
 
@@ -108,7 +108,6 @@ photo-editor/
 ├── index.html          # Main HTML structure
 ├── style.css           # Styling and responsive design
 ├── script.js           # JavaScript logic for filters
-└── README.md           # Project documentation
 ```
 
 ---
@@ -140,13 +139,13 @@ Download.onclick = function(){
 
 ## 🚀 Future Enhancements
 
-- [ ] Add more filters (Invert, Opacity, Drop Shadow)
-- [ ] Implement crop and rotate functionality
-- [ ] Add text overlay feature
-- [ ] Support for batch processing
-- [ ] Undo/Redo functionality
-- [ ] Save filter presets
-- [ ] Compare before/after view
+- Add more filters (Invert, Opacity, Drop Shadow)
+- Implement crop and rotate functionality
+- Add text overlay feature
+- Support for batch processing
+- Undo/Redo functionality
+- Save filter presets
+- Compare before/after view
 
 ---
 
@@ -177,12 +176,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🌟 Show Your Support
-
-Give a ⭐️ if you like this project!
-
----
-
 ## 📧 Contact
 
 Have questions or suggestions? Feel free to reach out!
@@ -191,5 +184,3 @@ Have questions or suggestions? Feel free to reach out!
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
-
-**Made with ❤️ and JavaScript**
