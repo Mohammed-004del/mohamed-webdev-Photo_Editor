@@ -65,7 +65,7 @@ A powerful yet simple **web-based photo editor** that allows you to apply variou
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/photo-editor.git
+git clone https://github.com/yourusername/photo-editor](https://github.com/Mohammed-004del/mohamed-webdev-Photo_Editor.git
 ```
 
 Navigate to the project directory:
@@ -158,3 +158,11 @@ Contributions are welcome! Feel free to:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+---
+
+👨‍💻 Author
+Mohammed Mahmood
+
+GitHub: @[Mohammed-004del](https://github.com/Mohammed-004del/)
+LinkedIn: [Mohammed Mahmood](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/)
