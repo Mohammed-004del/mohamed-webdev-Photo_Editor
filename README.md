@@ -1,6 +1,6 @@
-# 🎨 Photo Editor Web App
+# 🎨 Photo Editor Web
 
-![Photo Editor Banner](https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=300&fit=crop)
+![Photo Editor Banner](images/Photo_Editor_original.png)
 
 ## 📖 About the Project
 
