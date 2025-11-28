@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>photo editor</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="inputs">
+            <div class="Saturate">
+                <h3>Saturate</h3>
+                <input id="Saturate_input" type="range" min="0" max="200" value="100">
+            </div>
+            <div class="Contrast">
+                <h3>Contrast</h3>
+                <input id="Contrast_input" type="range" min="0" max="200" value="100">
+            </div>
+            <div class="Brightness">
+                <h3>Brightness</h3>
+                <input id="Brightness_input" type="range" min="0" max="200" value="100">
+            </div>
+            <div class="Sepia">
+                <h3>Sepia</h3>
+                <input id="Sepia_input" type="range" min="0" max="200" value="0">
+            </div>
+            <div class="Grayscale">
+                <h3>Grayscale</h3>
+                <input id="Grayscale_input" type="range" step="0.1" min="0" max="1" value="0">
+            </div>
+            <div class="Blur">
+                <h3>Blur</h3>
+                <input id="Blur_input" type="range" step="0.1" min="0" max="10" value="0">
+            </div>
+            <div class="Hue_Rotate">
+                <h3>Hue Rotate</h3>
+                <input id="Hue_Rotate_input" type="range" min="0" max="350" value="0">
+            </div>
+            <div class="btns">
+                <button id="Reset_btn" onclick="resetvalue()">Reset</button>
+                <a download="image" id="Download_btn">Download</a>
+            </div>
+        </div>
+        <div class="content">
+            <div class="image">
+                <img id="img">
+                <canvas id="canvas"></canvas>
+            </div>
+            <div class="upload">
+                <label for="upload">upload</label>
+                <input type="file" id="upload">
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
